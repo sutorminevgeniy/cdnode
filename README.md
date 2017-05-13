@@ -141,3 +141,19 @@ git checkout http
 ```sh
 git checkout http_end
 ```
+
+---
+
+## Веб-приложение: OMDB
+
+Начало
+
+```sh
+git checkout omdb
+```
+
+Конец
+
+```sh
+git checkout omdb_end
+```
