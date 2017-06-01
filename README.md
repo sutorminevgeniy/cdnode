@@ -157,3 +157,35 @@ git checkout omdb
 ```sh
 git checkout omdb_end
 ```
+
+---
+
+## npm
+
+Начало
+
+```sh
+git checkout npm
+```
+
+Конец
+
+```sh
+git checkout npm_end
+```
+
+---
+
+## WebSocket
+
+Начало
+
+```sh
+git checkout websocket
+```
+
+Конец
+
+```sh
+git checkout websocket_end
+```
